@@ -1,0 +1,21 @@
+{
+  "name": "com.wolfire.record3d_offline",
+  "version": "1.0",
+  "displayName": Record3D Offline Package",
+  "description": This is a package constructed from the Record3d Offline repo",
+  "unity": "2020.3",
+  "unityRelease": "21f1",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "dependencies": {
+ },
+ "keywords": [
+
+  ],
+  "author": {
+    "name": "Wolfire Games",
+    "email": contact@wolfire.com",
+    "url": "https://www.wolfire.com"
+  }
+}
